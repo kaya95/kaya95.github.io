@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #222;
+    background: #f7f7f7;
+}
+
+header {
+    text-align: center;
+    padding: 80px 20px;
+    background: #111;
+    color: white;
+}
+
+.tagline {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+section {
+    max-width: 900px;
+    margin: auto;
+    padding: 40px 20px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.profile-img {
+    display: block;
+    margin: 20px auto;
+    width: 160px;
+    border-radius: 50%;
+    border: 4px solid #333;
+}
+
+.project {
+    display: flex;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 7px rgba(0,0,0,0.1);
+}
+
+.project img {
+    width: 160px;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.project-info h3 {
+    margin: 0;
+}
+
+#contact {
+    text-align: center;
+}
